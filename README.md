@@ -10,4 +10,4 @@
 * Add 'door-chime' and 'InteractSound' (without ' ') to your server.cfg and that's it!
 
 ### Support
-* Comment on the fivem post, I will try my best to help you :) ()
+* Comment on the fivem post, I will try my best to help you :) (https://forum.fivem.net/t/release-simple-door-chime/264427)
