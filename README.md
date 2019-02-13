@@ -6,7 +6,7 @@
   
 ### Installation 
 * Make sure you have InteractSound installed correctly.
-* Drag both the InteractSound folder and doorchime folder into your resources making sure you replace anything that pops up.
+* Drag both the **InteractSound** folder and **door-chime** folder into your resources making sure you replace the **__resource.lua** from **InteractSound** in the process.
 * Add 'door-chime' and 'InteractSound' (without ' ') to your server.cfg and that's it!
 
 ### Support
